@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-Form/static/css/main.db520869.css",
+    "main.js": "/Login-Form/static/js/main.7cba4184.js",
+    "index.html": "/Login-Form/index.html",
+    "main.db520869.css.map": "/Login-Form/static/css/main.db520869.css.map",
+    "main.7cba4184.js.map": "/Login-Form/static/js/main.7cba4184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db520869.css",
+    "static/js/main.7cba4184.js"
+  ]
+}
